@@ -14,7 +14,7 @@ public class Main {
 
                 // 3. create components
 
-                JLabel label = new JLabel("Hello World");
+                JLabel label = new JLabel("Hello Seaver");
                 frame.setSize(500, 500);
                 JButton button = new JButton("push me!");
                 JTextField textField = new JTextField(10);
