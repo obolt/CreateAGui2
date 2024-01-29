@@ -16,7 +16,7 @@ public class Main {
 
                 JLabel label = new JLabel("Hello Seaver");
                 frame.setSize(500, 500);
-                JButton button = new JButton("push me!");
+                JButton button = new JButton("push YOU!");
                 JTextField textField = new JTextField(10);
                 Scrollbar scrollbar = new Scrollbar();
 
